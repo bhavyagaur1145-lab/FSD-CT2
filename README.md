@@ -102,8 +102,5 @@ The same member routes are also exposed under:
 
 ## Submission Notes
 
-- Use your team name as the GitHub repository name
-- Make the repository public
-- Include this README and `.gitignore`
-- Push the code before the deadline
+- BHAVYA GAUR (RA2311027010087)
 
